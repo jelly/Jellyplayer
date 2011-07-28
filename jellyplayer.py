@@ -1,3 +1,4 @@
+#!/usr/bin/python2
 from xml.dom import minidom
 import urwid
 

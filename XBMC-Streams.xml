@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+		 <items>
+
+		 <item>
+			<title>ABC News 24</title>
+			<link>rtmp://cp103653.live.edgefcs.net:1935/live?_fcs_vhost=cp103653.live.edgefcs.net&amp;akmfv=1.8 playpath=international_medium@36382 swfVfy=true live=true</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/aa/abc_news_24.png</thumbnail>
+		 </item>
+
+		 <item>
+			<title>Al Jazeera English</title>
+			<link>rtmp://media2.lsops.net/live/ playpath=aljazeer_en_veryhigh.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/3-al-jazeera-english-english" swfVfy=true live=true</link>
+			<link>rtmp://media2.lsops.net/live/ playpath=aljazeer_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/3-al-jazeera-english-english" swfVfy=true live=true</link>
+            <link>rtmp://media2.lsops.net/live/ playpath=aljazeer_en_medium.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/3-al-jazeera-english-english" swfVfy=true live=true</link> 
+			<thumbnail>http://www.lyngsat-logo.com/hires/aa/al_jazeera_english.png</thumbnail>
+		 </item>
+
+		 <item>
+			<title>BBC News</title>
+			<link>rtmp://media2.lsops.net/live/ playpath=bbcnews_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
+            <link>rtmp://media2.lsops.net/live/ playpath=bbcnews_en_medium.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_news.png</thumbnail>
+		 </item>
+
+		 <item>
+			<title>BBC World News</title>
+			<link>rtmp://media2.lsops.net/live/ playpath=bbcworld1_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
+            <link>rtmp://media2.lsops.net/live/ playpath=bbcworld1_en_medium.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/bb/bbc_world_news.png</thumbnail>
+		 </item>
+
+		 <item>
+			<title>Bloomberg</title>
+			<link>rtmpt://cp87869.live.edgefcs.net:1935/live/ playpath=us_300@21006 pageURL=http://www.bloomberg.com/tv/ app=live swfUrl=http://cdn.gotraffic.net/v/20110210_153738//flash/BloombergMediaPlayer.swf swfVfy=true live=true</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/bb/bloomberg.png</thumbnail>
+		 </item>
+
+		 <item>
+			<title>CNBC</title>
+			<link>http://bglive-a.bitgravity.com/bitgravity/dtv2/1000kbps</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnbc.png</thumbnail>
+		 </item>
+
+		 <item>
+			<title>CNBC HD+</title>
+			<link>http://bglive-a.bitgravity.com/bitgravity/dtv2/720p</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnbc_hd_plus.png</thumbnail>
+		 </item>
+
+		 <item>
+			<title>CNN International</title>
+			<link>rtmp://media2.lsops.net/live/ playpath=cnn_en_veryhigh.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/66-cnn-international" swfVfy=true live=true</link>
+			<link>rtmp://media2.lsops.net/live/ playpath=cnn_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/66-cnn-international" swfVfy=true live=true</link>
+            <link>rtmp://media2.lsops.net/live/ playpath=cnn_en_medium.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/66-cnn-international" swfVfy=true live=true</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/cc/cnn_international_europe.png</thumbnail>
+		 </item>
+
+		  <item>
+			<title>EuroNews (English)</title>
+			<link>rtmp://178.32.100.43:1935/rtpeuronewslive/eng_euronews-flash-750.sdp swfurl=http://www.euronews.net/media/player_live_1_7.swf live=true</link>
+			<link>rtmp://media2.lsops.net/live/ playpath=euronews_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews.png</thumbnail>
+	  	  </item>
+
+	  	  <item>
+			<title>EuroNews (French)</title>
+			<link>rtmp://178.32.100.43:1935/rtpeuronewslive/fre_euronews-flash-750.sdp swfurl=http://www.euronews.net/media/player_live_1_7.swf live=true</link>
+			<link>rtmp://media2.lsops.net/live/ playpath=euronews_fr_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews.png</thumbnail>
+	  	  </item>
+
+		  <item>
+			<title>EuroNews (German)</title>
+			<link>rtmp://media2.lsops.net/live/ playpath=euronews_de_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews.png</thumbnail>
+		  </item>
+
+		  <item>
+			<title>EuroNews (Portuguese)</title>
+			<link>rtmp://media2.lsops.net/live/ playpath=euronews_pt_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews.png</thumbnail>
+		  </item>
+
+  	  <item>
+			<title>EuroNews (Spanish)</title>
+			<link>rtmp://media2.lsops.net/live/ playpath=euronews_es_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews.png</thumbnail>
+		  </item>
+
+		  <item>
+			<title>France 24 (English)</title>
+			<link>mms://stream1.france24.yacast.net/f24_liveen</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/ff/france24.png</thumbnail>
+		  </item>
+
+		  <item>
+			<title>France 24 (French)</title>
+			<link>mms://stream1.france24.yacast.net/f24_livefr</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/ff/france24.png</thumbnail>
+		  </item>
+
+		  <item>
+			<title>Nasa</title>
+			<link>rtmp://cp76072.live.edgefcs.net/live/ swfUrl="http://www.nasa.gov/templateimages/redesign/flash_player/swf/4.5/player.swf" pageUrl="http://www.nasa.gov/multimedia/nasatv/media_flash.html" Playpath=MED-HQ-Flash@42814 live=true</link>
+			<thumbnail>http://community-links.googlecode.com/svn/icons/nasa.png</thumbnail>
+		  </item>
+
+		  <item>
+			<title>Nasa HD</title>
+			<link>rtmp://cp39920.live.edgefcs.net:1935/live/ustream-lax@11170 swfurl=http://www.ustream.tv/flash/viewer.swf live=true</link>
+			<link>rtmp://ustream.fc.llnwd.net:1935/ustream/test/ swfurl=http://cdn1.ustream.tv/swf/4/viewer.rsl.604.swf playpath=ustream@llnw_1_6540154_live_1 live=true</link>
+			<thumbnail>http://community-links.googlecode.com/svn/icons/nasa.png</thumbnail>
+		  </item>
+
+		  <item>
+			<title>NHK World</title>
+			<link>rtmp://216.155.128.59:1935/2e2cd playpath=nhkworldhd.sdp swfUrl="http://www3.nhk.or.jp/nhkworld/r/movie/fivecool_player.0.3.6.2.swf" pageUrl="http://www3.nhk.or.jp/nhkworld/r/movie/index.html" swfVfy=true live=true</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/nn/nhk_world.png</thumbnail>
+		  </item>
+
+		  <item>
+			<title>RT English</title>
+			<link>rtmp://fms5.visionip.tv/live app=live swfUrl=http://rt.com/s/swf/player5.4.viral.swf pageURL=http://rt.com/on-air/ playpath=RT_3 live=true</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/rr/russia_today_tv.png</thumbnail>
+		  </item>
+
+      <item>
+      <title>RT Spanish</title>
+      <link>rtmp://rt.fms.visionip.tv/live/ app=live swfUrl=http://actualidad.rt.com/swf/player.swf pageUrl=http://actualidad.rt.com/mas/envivo/ playpath=RT_Spanish_3 live=true swfVfy=true</link>
+      <thumbnail>http://www.lyngsat-logo.com/hires/rr/russia_today_es.png</thumbnail>
+      </item>
+
+		  <item>
+			<title>Sky News</title>
+			<link>mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/ss/sky_uk_news.png</thumbnail>
+		  </item>
+        
+        
+		<item>
+			<title>HD Media 1280x720 / Russian</title>
+			<link>http://89.208.33.168:8100</link>
+			<thumbnail>http://it-chuiko.com/uploads/posts/2010-11/1290340542162257193.jpeg</thumbnail>
+		 </item>
+
+		 </items>

@@ -44,7 +44,6 @@ def playVideo(stream):
         if "live=true" in stream_list:
             rtmpdump += " -v "
         rtmpdump += " | mplayer -cache 2000 -"
-        print rtmpdump
         call(rtmpdump, shell=True)
         
     else:

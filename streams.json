@@ -1,0 +1,58 @@
+[
+{
+    "title": "Al Jazeera",
+    "stream": "rtmp://media2.lsops.net/live/ playpath=aljazeer_en_veryhigh.sdp swfUrl=http://www.livestation.com/flash/player/5.4/player.swf pageUrl=http://www.livestation.com/channels/3-al-jazeera-english-english swfVfy=true live=true"
+},
+{
+    "title": "BBC News",
+    "stream": "rtmp://media2.lsops.net/live/ playpath=bbcnews_en_high.sdp swfUrl=http://www.livestation.com/flash/player/5.4/player.swf swfVfy=true live=true"
+},
+{
+    "title": "BBC World News",
+    "stream": "rtmp://media2.lsops.net/live/ playpath=bbcworld1_en_high.sdp swfUrl=http://www.livestation.com/flash/player/5.4/player.swf swfVfy=true live=true"
+},
+{
+    "title": "CNN International",
+    "stream": "rtmp://media2.lsops.net/live/ playpath=cnn_en_veryhigh.sdp swfUrl=http://www.livestation.com/flash/player/5.4/player.swf pageUrl=http://www.livestation.com/channels/66-cnn-international swfVfy=true live=true"
+},
+{
+    "title": "Euronews",
+    "stream": "rtmp://media2.lsops.net/live/ playpath=euronews_en_high.sdp swfUrl=http://www.livestation.com/flash/player/5.4/player.swf swfVfy=true live=true"
+},
+{
+    "title": "RT English",
+    "stream": "rtmp://fms5.visionip.tv/live app=live swfUrl=http://rt.com/s/swf/player5.4.viral.swf pageURL=http://rt.com/on-air/ playpath=RT_3 live=true"
+},
+{
+    "title": "MSBNC",
+    "stream": "rtmp://c.cdn.msnbclive.eu/edge playpath=msnbc_live swfUrl=http://www.rentadrone.org/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.rentadrone.org/msnbc-live-rockinroosters/ swfVfy=true live=true"
+},
+{
+    "title": "Skynews",
+    "stream": "mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k"
+},
+{
+    "title": "NBC News updates",
+    "stream": "mms://msnbc.wmod.llnwd.net/a275/e1/video/100/vh.asf"
+},
+{
+    "title": "BBC2",
+    "stream": "mms://wms.3BA6.edgecastcdn.net/203BA6/BBC2"
+},
+{
+    "title": "Journaal24",
+    "stream": "http://livestreams.omroep.nl/nos/journaal24-bb"
+},
+{
+    "title": "Politiek24",
+    "stream": "http://livestreams.omroep.nl/nos/politiek24-bb"
+},
+{
+    "title": "Consumenten24",
+    "stream": "http://livestreams.omroep.nl/npo/consumenten24-bb"
+},
+{
+    "title": "Geschiedenis24",
+    "stream": "http://livestreams.omroep.nl/npo/geschiedenis24-bb"
+}
+]

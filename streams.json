@@ -54,5 +54,13 @@
 {
     "title": "Geschiedenis24",
     "stream": "http://livestreams.omroep.nl/npo/geschiedenis24-bb"
+},
+{
+    "title": "Humor24",
+    "stream": "http://livestreams.omroep.nl/npo/humortv24-bb"
+},
+{
+	"title": "Look TV",
+	"stream": "mms://wms.streamone.nl/radioschiedam?MSWMExt=.asf"
 }
 ]
